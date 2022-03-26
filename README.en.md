@@ -1,5 +1,7 @@
 # PicBed
 
+## Migrate image bed to GitHub because of gitee access restriction
+
 #### Description
 PicBed of PicGo
 

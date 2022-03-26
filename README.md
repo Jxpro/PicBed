@@ -1,5 +1,7 @@
 # PicBed
 
+## 由于gitee访问限制暂未解决，现将图床迁移至GitHub
+
 #### 介绍
 PicBed of PicGo
 
